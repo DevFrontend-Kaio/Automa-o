@@ -1,2 +1,2 @@
-# Automa-o
+# Automacao
 Projeto de automação em Python
